@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C_csy\\workspace\\day4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE382C55-F327-4641-A9E3-520F6B6E5878}|variable\\variable.vcxproj|C:\\C_csy\\workspace\\day4\\variable\\variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE382C55-F327-4641-A9E3-520F6B6E5878}|variable\\variable.vcxproj|solutionrelative:variable\\variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "variable.c",
+              "DocumentMoniker": "C:\\C_csy\\workspace\\day4\\variable\\variable.c",
+              "RelativeDocumentMoniker": "variable\\variable.c",
+              "ToolTip": "C:\\C_csy\\workspace\\day4\\variable\\variable.c",
+              "RelativeToolTip": "variable\\variable.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-30T07:34:03.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
