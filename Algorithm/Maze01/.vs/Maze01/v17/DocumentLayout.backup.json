@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C_csy\\workspace\\Algorithm\\Maze01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52141265-BD55-4346-97CA-E5D593FCEB05}|Maze\\Maze.vcxproj|C:\\C_csy\\workspace\\Algorithm\\Maze01\\Maze\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52141265-BD55-4346-97CA-E5D593FCEB05}|Maze\\Maze.vcxproj|solutionrelative:Maze\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52141265-BD55-4346-97CA-E5D593FCEB05}|Maze\\Maze.vcxproj|C:\\C_csy\\workspace\\Algorithm\\Maze01\\Maze\\Maze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52141265-BD55-4346-97CA-E5D593FCEB05}|Maze\\Maze.vcxproj|solutionrelative:Maze\\Maze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SAMSUNG\\Downloads\\\uC790\uB8CC\uAD6C\uC870 \uC54C\uACE0\uB9AC\uC998_2\\\uC9C1\uC811 \uAD6C\uD604\uD558\uC5EC \uC775\uD788\uB294 \uC790\uB8CC\uAD6C\uC870 \uC54C\uACE0\uB9AC\uC998_10\uAC15\\ch10_\uD559\uC0DD\uC790\uB8CC\\test01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Queue.cpp",
+              "DocumentMoniker": "C:\\C_csy\\workspace\\Algorithm\\Maze01\\Maze\\Queue.cpp",
+              "RelativeDocumentMoniker": "Maze\\Queue.cpp",
+              "ToolTip": "C:\\C_csy\\workspace\\Algorithm\\Maze01\\Maze\\Queue.cpp*",
+              "RelativeToolTip": "Maze\\Queue.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T11:12:17.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test01.c",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\Downloads\\\uC790\uB8CC\uAD6C\uC870 \uC54C\uACE0\uB9AC\uC998_2\\\uC9C1\uC811 \uAD6C\uD604\uD558\uC5EC \uC775\uD788\uB294 \uC790\uB8CC\uAD6C\uC870 \uC54C\uACE0\uB9AC\uC998_10\uAC15\\ch10_\uD559\uC0DD\uC790\uB8CC\\test01.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\SAMSUNG\\Downloads\\\uC790\uB8CC\uAD6C\uC870 \uC54C\uACE0\uB9AC\uC998_2\\\uC9C1\uC811 \uAD6C\uD604\uD558\uC5EC \uC775\uD788\uB294 \uC790\uB8CC\uAD6C\uC870 \uC54C\uACE0\uB9AC\uC998_10\uAC15\\ch10_\uD559\uC0DD\uC790\uB8CC\\test01.c",
+              "ToolTip": "C:\\Users\\SAMSUNG\\Downloads\\\uC790\uB8CC\uAD6C\uC870 \uC54C\uACE0\uB9AC\uC998_2\\\uC9C1\uC811 \uAD6C\uD604\uD558\uC5EC \uC775\uD788\uB294 \uC790\uB8CC\uAD6C\uC870 \uC54C\uACE0\uB9AC\uC998_10\uAC15\\ch10_\uD559\uC0DD\uC790\uB8CC\\test01.c",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\SAMSUNG\\Downloads\\\uC790\uB8CC\uAD6C\uC870 \uC54C\uACE0\uB9AC\uC998_2\\\uC9C1\uC811 \uAD6C\uD604\uD558\uC5EC \uC775\uD788\uB294 \uC790\uB8CC\uAD6C\uC870 \uC54C\uACE0\uB9AC\uC998_10\uAC15\\ch10_\uD559\uC0DD\uC790\uB8CC\\test01.c",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-19T10:58:20.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Maze.cpp",
+              "DocumentMoniker": "C:\\C_csy\\workspace\\Algorithm\\Maze01\\Maze\\Maze.cpp",
+              "RelativeDocumentMoniker": "Maze\\Maze.cpp",
+              "ToolTip": "C:\\C_csy\\workspace\\Algorithm\\Maze01\\Maze\\Maze.cpp",
+              "RelativeToolTip": "Maze\\Maze.cpp",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T10:55:10.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

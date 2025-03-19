@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C_csy\\workspace\\C\\variableTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B11E0D67-CC5F-4DB0-AFFD-F994F75CE39E}|variableTask\\variableTask.vcxproj|C:\\C_csy\\workspace\\C\\variableTask\\variableTask\\encrpt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B11E0D67-CC5F-4DB0-AFFD-F994F75CE39E}|variableTask\\variableTask.vcxproj|solutionrelative:variableTask\\encrpt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11E0D67-CC5F-4DB0-AFFD-F994F75CE39E}|variableTask\\variableTask.vcxproj|C:\\C_csy\\workspace\\C\\variableTask\\variableTask\\character.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B11E0D67-CC5F-4DB0-AFFD-F994F75CE39E}|variableTask\\variableTask.vcxproj|solutionrelative:variableTask\\character.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "encrpt.c",
+              "DocumentMoniker": "C:\\C_csy\\workspace\\C\\variableTask\\variableTask\\encrpt.c",
+              "RelativeDocumentMoniker": "variableTask\\encrpt.c",
+              "ToolTip": "C:\\C_csy\\workspace\\C\\variableTask\\variableTask\\encrpt.c*",
+              "RelativeToolTip": "variableTask\\encrpt.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-19T11:44:45.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "character.c",
+              "DocumentMoniker": "C:\\C_csy\\workspace\\C\\variableTask\\variableTask\\character.c",
+              "RelativeDocumentMoniker": "variableTask\\character.c",
+              "ToolTip": "C:\\C_csy\\workspace\\C\\variableTask\\variableTask\\character.c",
+              "RelativeToolTip": "variableTask\\character.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-19T11:30:28.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
